@@ -1,0 +1,21 @@
+.texto {
+    background-color: white;
+    color: white;   
+}
+
+.dados-tabela {
+    background-color: #424250;
+    padding: 5px;
+}
+
+td, th {
+    padding: 5px;
+}
+
+.moda {
+    background-color:  #BB86FC;
+}
+
+.casa {
+    background-color: #00C4B4 ;
+}
