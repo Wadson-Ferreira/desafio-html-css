@@ -13,4 +13,4 @@ Para a construção dessa tabela foi utilizado *HTML*
 
 Para estilização foi utilizado *CSS3*
 
-A estilização foi feita visando uma manutenção facilitada do código e também uma boa indentação do código.
+A estilização foi feita visando uma manutenção facilitada do código e também uma boa indentação.
